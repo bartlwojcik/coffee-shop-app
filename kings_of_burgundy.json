@@ -1,4 +1,6 @@
- {
+{
+  "Kings": [
+  {
     "name": "Childebert I",
     "year_of_crowning": 534,
     "year_of_death": 558
@@ -103,3 +105,4 @@
     "year_of_crowning": 1125,
     "year_of_death": 1137
   }
+]}
